@@ -7,13 +7,18 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="/assets/img/uploads/profile-blockhore.png" alt="Thomas A. Anderson" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Orbiting Education, Attracting Inovation
+
+Blockhore adalah sebuah platform yang membahas seputar Blockchain, Crypto, dan Web3
+dengan gaya storytelling agar pembaca mudah untuk memahami. Blockhore menyediakan konten seperti
+Artikel, Thread, dan Design untuk membantu kamu yang ingin memahami dunia Blockchain, Crypto, dan web3. 
+Dengan konten-konten setiap harinya, kami ingin membuka jalan untuk kamu yang baru memulai atau masih bingung.
+Tujuan Blockhore adalah agar semua orang bisa mudah memahami seputar Blockchian, Crypto, dan Web3. 
+Kami juga menyediakan komunitas untuk kamu yang ingin mengulik lebih dalam lagi, ditemani oleh
+beberapa orang profesional, kami siap membantu dan membimbing kamu.
+Blockhore percaya bahwa masa depan digital akan dibentuk oleh teknologi desentralisasi, dan kami ingin kamu
+ikut ambil bagian sekarang.
