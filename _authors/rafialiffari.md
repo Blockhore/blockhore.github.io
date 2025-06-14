@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile-rafialiffari.png
 name: rafialiffari
 display_name: Rafi Aliffari
 position: Founder & CEO
