@@ -12,14 +12,14 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Tags
+    url: /tags
+  - title: Staff
+    url: /staff
   - title: About
     url: /about
   - title: Contact
     url: /contact
-  - title: Staff
-    url: /staff
-  - title: Tags
-    url: /tags
   - title: Feed
     url: /feed.xml
 email: blockhore.team@gmail.com
