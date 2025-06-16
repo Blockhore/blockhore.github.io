@@ -9,13 +9,46 @@ permalink: /staff/
 
 <div class="staff">
   {% for author in site.authors %}
-    <div class="item">
-      <h2 class="name">
-        <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
-      </h2>
-      {% if author.position %}
-        <h3 class="position">{{ author.position }}</h3>
+    <div class="item" style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+
+      <!-- Foto Profil -->
+      {% if author.photo %}
+        <img src="{{ author.photo }}" alt="{{ author.display_name}}" style="widht:100px; height:100px; border-radius:50%; object-fit:cover;">
       {% endif %}
+
+      <div>
+        <!-- Nama dan Jabatan -->
+        <h2 class="name" style="margin: 0;">
+          <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
+        </h2>
+        {% if author.position %}
+          <h3 class="position">{{ author.position }}</h3>
+        {% endif %}
+
+        <!-- Bio -->
+        {% if author.bio %}
+          <p class="bio" style="margin: 10px 0;">{{ author.bio }}</p>
+        {% endif %}
+
+        <!-- Media Sosial -->
+        <div class="social-icons" style="font-size: 20px;">
+          {% if author.github_username %}
+            <a href="https://github.com/{{ author.github_username }}" target="_blank" style="margin-right:10px;"><i class="fab fa-github"></i></a>
+          {% endif %}
+          {% if author.twitter_username %}
+            <a href="https://twitter.com/{{ author.twitter_username }}" target="_blank" style="margin-right:10px;"><i class="fab fa-twitter"></i></a>
+          {% endif %}
+          {% if author.instagram_username %}
+            <a href="https://instagram.com/{{ author.instagram_username }}" target="_blank" style="margin-right:10px;"><i class="fab fa-instagram"></i></a>
+          {% endif %}
+          {% if author.linkedin_username %}
+            <a href="https://linkedin.com/in/{{ author.linkedin_username }}" target="_blank" style="margin-right:10px;"><i class="fab fa-linkedin"></i></a>
+          {% endif %}
+          {% if author.medium_username %}
+            <a href="https://medium.com/@{{ author.medium_username }}" target="_blank"><i class="fab fa-medium"></i></a>
+          {% endif %}
+        </div>
+      </div>
     </div>
   {% endfor %}
 </div>
