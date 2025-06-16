@@ -16,6 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Staff
+    url: /staff
   - title: Feed
     url: /feed.xml
 email: blockhore.team@gmail.com
