@@ -1,30 +1,34 @@
 ---
 layout: page
-title: Semua Kategori
+title: Kategori Artikel
 permalink: /category/
 ---
 
-<h1>📂 Kategori Artikel</h1>
+<h1 style="display: flex; align-items: center; gap: 10px;">
+  <i class="fas fa-folder" style="color: #ffc107;"></i> Kategori Artikel
+</h1>
 
-<div class="category-list">
-  {% assign custom_categories = "edukasi,airdrop,riset,news,trading,tips,event" | split: "," %}
+{% assign all_categories = site.categories %}
+{% for category in all_categories %}
+  <section class="category-section">
+    <div class="category-header">
+      <h2 class="category-title">{{ category[0] | capitalize }}</h2>
+      <a class="view-all" href="{{ '/category/' | append: category[0] | relative_url }}">Lihat semua →</a>
+    </div>
 
-  {% for cat in custom_categories %}
-    {% assign posts_in_cat = site.categories[cat] %}
-    {% assign latest_post = posts_in_cat | first %}
-
-    {% if latest_post %}
-      <div class="category-card">
-        <a href="{{ latest_post.url }}">
-          <img src="{{ latest_post.image }}" alt="{{ latest_post.title }}">
-        </a>
-        <div class="text">
-          <h2>{{ cat | capitalize }}</h2>
-          <a href="{{ latest_post.url }}"><h3>{{ latest_post.title }}</h3></a>
-          <p>{{ latest_post.excerpt | truncate: 120 }}</p>
-          <a href="{{ '/category/' | append: cat | append: '/' | relative_url }}" class="view-more">Lihat semua →</a>
+    <div class="category-scroll">
+      {% assign posts = category[1] | slice: 0, 10 %}
+      {% for post in posts %}
+        <div class="category-post">
+          <a href="{{ post.url | relative_url }}">
+            {% if post.image %}
+              <img src="{{ post.image }}" alt="{{ post.title }}">
+            {% endif %}
+            <h3>{{ post.title | truncate: 50 }}</h3>
+            <p>{{ post.excerpt | strip_html | truncate: 100 }}</p>
+          </a>
         </div>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+      {% endfor %}
+    </div>
+  </section>
+{% endfor %}
