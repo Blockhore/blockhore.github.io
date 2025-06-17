@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Edukasi
+slug: edukasi
+description: Kategori untuk artikel/blog untuk edukasi/
 ---
