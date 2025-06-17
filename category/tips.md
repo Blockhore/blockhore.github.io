@@ -2,5 +2,5 @@
 layout: category
 title: Tips
 slug: tips
-description: A category for tips.
+description: kategori artikel/blog untuk tips.
 ---
