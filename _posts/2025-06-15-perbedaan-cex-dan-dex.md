@@ -10,9 +10,9 @@ image: >-
   https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png
 optimized_image: >-
   https://res.cloudinary.com/deq13ln4r/image/upload/c_scale,w_380/v1749982417/CEX_vs_DEX_tvdcj6.png
-category: blog
+category: edukasi
 tags:
-  - education
+  - Exchange
   - CEX
   - DEX
 author: rafialiffari
