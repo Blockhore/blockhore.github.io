@@ -1,0 +1,30 @@
+---
+layout: page
+title: Semua Kategori
+permalink: /category/
+---
+
+<h1>📂 Kategori Artikel</h1>
+
+<div class="category-list">
+  {% assign custom_categories = "edukasi,airdrop,riset,news,trading,tips,event" | split: "," %}
+
+  {% for cat in custom_categories %}
+    {% assign posts_in_cat = site.categories[cat] %}
+    {% assign latest_post = posts_in_cat | first %}
+
+    {% if latest_post %}
+      <div class="category-card">
+        <a href="{{ latest_post.url }}">
+          <img src="{{ latest_post.image }}" alt="{{ latest_post.title }}">
+        </a>
+        <div class="text">
+          <h2>{{ cat | capitalize }}</h2>
+          <a href="{{ latest_post.url }}"><h3>{{ latest_post.title }}</h3></a>
+          <p>{{ latest_post.excerpt | truncate: 120 }}</p>
+          <a href="{{ '/category/' | append: cat | append: '/' | relative_url }}" class="view-more">Lihat semua →</a>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
