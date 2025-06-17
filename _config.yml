@@ -12,8 +12,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: Tags
-    url: /tags
+  - title: Category
+    url: /category
   - title: Team
     url: /team
   - title: Community
