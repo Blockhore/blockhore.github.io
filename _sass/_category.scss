@@ -1,5 +1,6 @@
 .category-section {
   margin: 50px 0;
+  padding: 0 20px; // kasih jarak dari pinggir
 }
 
 .category-header {
@@ -32,33 +33,35 @@
   padding-bottom: 10px;
 
   .category-post {
-    flex: 0 0 260px;
+    flex: 0 0 250px;
     background: #fff;
     border: 1px solid #eaeaea;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 12px;
+    padding: 12px;
     transition: 0.2s;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
 
     &:hover {
-      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
 
     img {
       width: 100%;
-      height: 150px;
+      height: 140px;
       object-fit: cover;
       border-radius: 8px;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
 
     h3 {
       font-size: 1rem;
-      margin: 5px 0;
+      margin: 6px 0 4px 0;
     }
 
     p {
       font-size: 0.85rem;
       color: #555;
+      margin: 0;
     }
   }
 }
