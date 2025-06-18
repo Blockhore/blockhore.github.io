@@ -19,7 +19,7 @@ Jadi, biar kamu nggak bingung terus, yuk kita bahas bareng apa itu CEX dan DEX, 
 
 [join komunitas untuk belajar bareng](https://t.me/Blockhore)
 
-![CEX atau DEX?][https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png]
+![https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png]
 
 # Apa Itu CEX?
 
@@ -39,7 +39,7 @@ Kenapa disebut centralized? Karena semua proses mulai dari pencocokan order (*or
 
 * **Support 24/7:** Ada layanan pelanggan dan bantuan selama 24/7 kalau kamu mengalami kendala.
 
-![Contoh CEX][https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png]
+![https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png]
 
 ## Contoh Platform CEX Populer
 
@@ -75,7 +75,7 @@ Jadi, ketika kamu pakai DEX, kamu sepenuhnya mengontrol aset kamu tanpa harus me
 
 * **Biaya Tergantung Jaringan:** karena berjalan di atas blockchain, biaya transaksi disesuaikan dengan jaringan yang digunakan (Ethereum, BNB Chain, Arbitrum, dll).
 
-![Contoh DEX][https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png]
+![https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png]
 
 ## Contoh Platform DEX Populer
 
