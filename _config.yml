@@ -96,7 +96,10 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
 
-# Exclude my node related stuff
+# Exclude and Inckude my node related stuff
+include:
+  - googlea151e97020c53bab.html
+
 exclude: [
   'docs/',
   'vendor/',
