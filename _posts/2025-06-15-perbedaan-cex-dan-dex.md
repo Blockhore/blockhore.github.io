@@ -2,7 +2,7 @@
 date: 2025-06-15 23:48:05
 layout: post
 title: Perbedaan CEX dan DEX
-subtitle: 'Bingung beli crypto di mana? CEX atau DEX ya?'
+subtitle: 'Bingung beli crypto di mana? beli CEX atau DEX ya?'
 description: >-
   Buat kamu yang baru terjun di dunia crypto pasti bingung mau beli crypto dimana,
   tapi tenang di blog ini aku jelasin perbedaan CEX dan DEX.
@@ -18,7 +18,6 @@ tags:
 author: rafialiffari
 paginate: true
 ---
-<p style="text-align: justify;"><span style="font-size:26pt;font-family:Arial,sans-serif;">Bingung Beli Crypto di Mana? CEX atau DEX Ya?</span></p>
 <p style="text-align: justify;"><span style="font-size:11pt;font-family:Arial,sans-serif;">Lagi bingung mau&nbsp;</span><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">beli crypto&nbsp;</span></strong><span style="font-size:11pt;font-family:Arial,sans-serif;">di mana? Antara&nbsp;</span><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">CEX (Centralized Exchange)&nbsp;</span></strong><span style="font-size:11pt;font-family:Arial,sans-serif;">atau&nbsp;</span><strong><span style="font-size:11pt;font-family:Arial,sans-serif;">DEX (Decentralized Exchange)</span></strong><span style="font-size:11pt;font-family:Arial,sans-serif;">, banyak pemula yang masih belum paham perbedaannya, padahal ini penting banget sebelum memulai trading atau investasi aset crypto.</span></p>
 <p style="text-align: justify;"><span style="font-size:11pt;font-family:Arial,sans-serif;">Jadi, biar kamu nggak bingung terus, yuk kita bahas bareng apa itu CEX dan DEX, bedanya apa, dan gimana milih yang paling pas buat kamu</span></p>
 <p style="text-align: justify;"><a href="https://t.me/Blockhore"><u><span style="color:#1155cc;font-size:11pt;font-family:Arial,sans-serif;">join komunitas untuk belajar bareng</span></u></a></p>
