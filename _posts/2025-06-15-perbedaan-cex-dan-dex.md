@@ -1,5 +1,5 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2025-06-15 19:21:00
 layout: post
 title: Perbedaan CEX dan DEX
 subtitle: Bingung beli crypto di mana? beli di CEX atau DEX ya?
@@ -8,8 +8,9 @@ image: https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_
 optimized_image: https://res.cloudinary.com/deq13ln4r/image/upload/c_scale,w_380/v1749982417/CEX_vs_DEX_tvdcj6.png
 category: edukasi
 tags:
-  - life
-  - tips
+  - Exchange
+  - CEX
+  - DEX
 author: rafialiffari
 paginate: true
 ---
@@ -39,7 +40,7 @@ Kenapa disebut centralized? Karena semua proses mulai dari pencocokan order (*or
 
 * **Support 24/7:** Ada layanan pelanggan dan bantuan selama 24/7 kalau kamu mengalami kendala.
 
-![Contoh CEX](https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png)
+![Contoh CEX](https://res.cloudinary.com/deq13ln4r/image/upload/v1750249204/CEX_acfhcp.png)
 
 ## Contoh Platform CEX Populer
 
@@ -75,7 +76,7 @@ Jadi, ketika kamu pakai DEX, kamu sepenuhnya mengontrol aset kamu tanpa harus me
 
 * **Biaya Tergantung Jaringan:** karena berjalan di atas blockchain, biaya transaksi disesuaikan dengan jaringan yang digunakan (Ethereum, BNB Chain, Arbitrum, dll).
 
-![Contoh DEX](https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png)
+![Contoh DEX](https://res.cloudinary.com/deq13ln4r/image/upload/v1750249204/DEX_hnzlr8.png)
 
 ## Contoh Platform DEX Populer
 
