@@ -1,5 +1,5 @@
 ---
-date: 2025-06-19 12:26:40
+date: 2025-06-19 12:20:40
 layout: post
 title: SoDEX Platform Trading dari SoSoValue
 subtitle: SoDEX sebuah platform trading terbaru dari SoSoValue
