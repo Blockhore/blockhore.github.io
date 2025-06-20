@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Bedah Crypto
-slug: bedah-crypto
+title: Laboratorium Crypto
+slug: laboratorium-crypto
 description: pembahasan untuk membedah/riset project-project crypto
 ---
