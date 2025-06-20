@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Info Airdrop
-slug: info-airdrop
+title: Komet Airdrop
+slug: komet-airdrop
 description: Pembahasan untuk info-info airdrop dan tutorial garapnya
 ---
