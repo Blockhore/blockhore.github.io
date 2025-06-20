@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Nebula - Senior
-slug: nebula-senior
+title: Kelas - Menengah
+slug: kelas-menengah
 description: pembahasan terkait pembelajaran dan edukasi hal-hal menengah/lebih rumit
 ---
