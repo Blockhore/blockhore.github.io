@@ -6,7 +6,7 @@ subtitle: Bingung beli crypto di mana? beli di CEX atau DEX ya?
 description: Buat kamu yang masih bingung mending beli crypto di CEX atau DEX? artikel ini cocok buat kamu baca.
 image: https://res.cloudinary.com/deq13ln4r/image/upload/v1749982417/CEX_vs_DEX_tvdcj6.png
 optimized_image: https://res.cloudinary.com/deq13ln4r/image/upload/c_scale,w_380/v1749982417/CEX_vs_DEX_tvdcj6.png
-category: belajar-dasar
+category: belajar - Dasar
 tags:
   - Exchange
   - CEX
