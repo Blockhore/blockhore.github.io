@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Belajar - Dasar
-slug: belajar-dasar
+title: Nebula - Junior
+slug: nebula-junior
 description: pembahasan terkait pembelajaran dan edukasi dasar
 ---
