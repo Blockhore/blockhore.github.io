@@ -50,7 +50,7 @@ Jadi, ada beberapa langkah demi langkah bagaimana blockchain bekerja.
   Tapi transaksi ini belum langsung tercatat di blockchain, tapi akan masuk ke dalam  daftar transaksi yang menunggu untuk diverifikasi. 
 
 2. **Verifikasi**  
-   Blockchain menggunakan sistem jaringan komputer yang saling terhubung, disebut sebagai **node**. Nah, transaksi tadi akan disebarkan ke seluruh node di jaringan tersebut. Para node ini akan melakukan verifikasi seperti:  
+   Blockchain menggunakan sistem jaringan komputer yang saling terhubung, disebut sebagai **node**. Nah, transaksi tadi akan disebarkan ke seluruh node di jaringan tersebut. Para node ini akan melakukan verifikasi seperti: 
 * Apakah pengirim (aku) benar-benar punya cukup saldo?  
 * Apakah tanda tangan digital valid?  
 * Apakah transaksi ini tidak ganda (double spending)?  
@@ -63,7 +63,7 @@ Jadi, ada beberapa langkah demi langkah bagaimana blockchain bekerja.
   Konsensus ini tujuannya adalah memastikan bahwa hanya blok yang valid dan tidak  dimanipulasi yang bisa masuk ke jaringan.  
     
 4. **Blok ditambahkan ke blockchain**  
-   Setelah lolos verifikasi dan konsensus, blok akan ditambahkan ke rantai blok sebelumnya. Nah, inilah yang disebut **blockchain** karena setiap blok saling terhubung satu sama lain secara berurutan. Dan setiap blok punya  
+   Setelah lolos verifikasi dan konsensus, blok akan ditambahkan ke rantai blok sebelumnya. Nah, inilah yang disebut **blockchain** karena setiap blok saling terhubung satu sama lain secara berurutan. Dan setiap blok punya 
 * Data transaksi,  
 * Waktu pencatatan (timestamp),  
 * Hash (kode unik yang menghubungkan antar blok) dari blok sebelumnya.  
