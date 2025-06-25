@@ -1,5 +1,5 @@
 ---
-date: 2025-06-15 19:21:00
+date: 2025-06-15 19:21:00 +0700
 layout: post
 title: Perbedaan CEX dan DEX
 subtitle: Bingung beli crypto di mana? beli di CEX atau DEX ya?
