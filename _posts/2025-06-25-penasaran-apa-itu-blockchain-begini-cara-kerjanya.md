@@ -1,5 +1,5 @@
 ---
-date: 2025-06-25 19:21:00
+date: 2025-06-25 08:00:00 +0700
 layout: post
 title: Blockchain dan Cara Kerjanya
 subtitle: Penasaran apa itu blockchain? Begini cara kerjanya!
