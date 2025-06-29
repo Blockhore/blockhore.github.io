@@ -1,5 +1,5 @@
 ---
-date: 2025-06-29 20:00:00
+date: 2025-06-29
 layout: post
 title: Sejarah Blockchain
 subtitle: Sejarah blockchain mulai dari konsep hingga saat ini
