@@ -9,7 +9,7 @@ github_username:
 facebook_username: edo.putra.747177
 twitter_username: 
 instagram_username: rill_nofek
-linkedin_username: 
+linkedin_username: edoputraw
 medium_username: 
 ---
 
