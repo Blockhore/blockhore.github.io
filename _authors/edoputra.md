@@ -6,10 +6,10 @@ display_name: Edo Putra
 position: CFO
 bio: Just about do some
 github_username: 
-facebook_username: edo.putra.747177
+facebook_username: 
 twitter_username: 
 instagram_username: rill_nofek
-linkedin_username: edoputraw
+linkedin_username: edo-putra-w-b0a040332
 medium_username: 
 ---
 
