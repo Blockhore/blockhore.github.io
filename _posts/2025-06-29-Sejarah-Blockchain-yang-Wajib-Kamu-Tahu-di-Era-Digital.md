@@ -1,9 +1,9 @@
 ---
 date: 2025-06-29
 layout: post
-title: Sejarah Blockchain
-subtitle: Sejarah blockchain mulai dari konsep hingga saat ini
-description: Buat kamu yang pengen tau sejarah blockchain seperti apa? Artikel ini cocok buat kamu baca
+title: Sejarah Blockchain yang Wajib Kamu Tahu di Era Digital
+subtitle: 
+description: Kenali sejarah blockchain dan perkembangannya yang penting untuk dipahami di era digital modern. Baca selengkapnya di sini!
 image: https://res.cloudinary.com/deq13ln4r/image/upload/v1751182801/1_zgmzc5.png
 optimized_image: https://res.cloudinary.com/deq13ln4r/image/upload/c_scale,w_380/v1751182801/1_zgmzc5.png
 category: kelas-dasar
