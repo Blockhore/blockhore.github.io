@@ -3,8 +3,8 @@ layout: author
 photo: /assets/img/uploads/profile-edoputra.png
 name: edoputra
 display_name: Edo Putra
-position: CFO
-bio: Just about do some
+position: Content Writter
+bio: 
 github_username: 
 facebook_username: 
 twitter_username: 
