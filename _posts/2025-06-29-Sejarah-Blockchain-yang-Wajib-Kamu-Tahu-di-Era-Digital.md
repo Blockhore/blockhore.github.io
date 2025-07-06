@@ -6,7 +6,7 @@ subtitle:
 description: Kenali sejarah blockchain dan perkembangannya yang penting untuk dipahami di era digital modern. Baca selengkapnya di sini!
 image: https://res.cloudinary.com/deq13ln4r/image/upload/v1751182801/1_zgmzc5.png
 optimized_image: https://res.cloudinary.com/deq13ln4r/image/upload/c_scale,w_380/v1751182801/1_zgmzc5.png
-category: kelas-dasar
+category: museum-crypto
 tags:
   - Blockchain
 author: rafialiffari
