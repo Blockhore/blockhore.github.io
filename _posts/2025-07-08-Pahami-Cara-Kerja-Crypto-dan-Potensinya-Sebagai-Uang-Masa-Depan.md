@@ -35,8 +35,6 @@ Baca juga: [Apa Itu Cryptocurrency dan Apa Bedanya Dengan Mata Uang Biasa?](http
 
    Setelah data tersimpan di jaringan blockchain, selanjutnya semua data tersebut akan disimpan dan disebar ke **ribuan komputer (node)** di seluruh dunia yang menggunakan jaringan blockchain. Jadi, semua transaksi yang terjadi di blockchain akan di validasi bersama-sama oleh ribuan komputer tersebut, bukan cuma satu perusahaan besar. Itulah mengapa crypto desentralisasi, artinya tidak ada satu pihak yang mengontrol semua transaksi, tapi yang mengontrol adalah ribuan komputer itu tadi.  
    
-Baca juga: [Penasaran Apa Itu Blockchain? Begini Cara Kerjanya\!](https://blockhore.netlify.app/apa-itu-cryptocurrency-dan-apa-bedanya-dengan-mata-uang-biasa/)
-
 3. **Diamankan Pakai Sistem Kriptografi**
 
    Sesuai namanya, crypto itu berasal dari kata **cryptography** yang artinya teknik enkripsi. Jadi setiap transaksi yang dilakukan itu diamankan menggunakan sistem kriptografi, dengan kode rahasia yang rumit.  Hanya pemiliknya yang bisa membuka dan mengakses datanya. Nah inilah yang bikin semua transaksi crypto jadi aman dan mustahil untuk dipalsukan. Jadi walaupun transparan dan terbuka, menggunakan kriptografi akan tetap aman.  
@@ -50,6 +48,8 @@ Baca juga: [Penasaran Apa Itu Blockchain? Begini Cara Kerjanya\!](https://blockh
    Jika transaksi berhasil dilakukan, crypto kamu akan masuk ke **wallet** alias dompet digital. Wallet ini adalah sebagai tempat penyimpanan aset crypto. Akses ke wallet pun dijaga oleh yang namanya **private key**, ini nggak boleh kamu bocorkan ke siapa pun, ibarat private key adalah kata sandi rekening mu atau password brankas mu
 
 Jadi, walaupun terdengar agak teknis, sebenarnya cara kerja crypto cukup logis. Semuanya itu diawali dari pencatatan di blockchain, keamanan lewat kriptografi, verifikasi tanpa pihak ketiga, dan penyimpanan aman di wallet digital. Dengan konsep seperti ini, crypto menjadi alat tukar modern yang bisa dipercaya tanpa harus melibatkan bank atau lembaga tertentu. Keren bukan? Gimana udah tau cara kerja crypto sekarang? Jadi, tidak ada alasan untuk skeptis sama crypto hari ini.
+
+Baca juga: [Penasaran Apa Itu Blockchain? Begini Cara Kerjanya\!](https://blockhore.netlify.app/apa-itu-cryptocurrency-dan-apa-bedanya-dengan-mata-uang-biasa/)
 
 # Potensi Crypto Sebagai Uang Masa Depan
 
