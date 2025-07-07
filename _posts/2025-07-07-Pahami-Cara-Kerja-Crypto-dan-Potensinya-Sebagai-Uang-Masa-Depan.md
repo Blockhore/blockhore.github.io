@@ -27,23 +27,23 @@ Baca juga: [Apa Itu Cryptocurrency dan Apa Bedanya Dengan Mata Uang Biasa?](http
 
 ![image2](https://res.cloudinary.com/deq13ln4r/image/upload/v1751860264/2_prdfzd.png)
 
-1. ## **Dimulai dari Blockchain**
+## 1. **Dimulai dari Blockchain**
 
    Semua aktivitas crypto itu berawal dari teknologi **blockchain**. Sederhananya, blockchain itu kayak buku besar, jadi setiap transaksi dicatat di dalam blockchain ini. Setiap kali ada transaksi maka itu akan dicatat di dalam sebuah blok, nah lalu blok-blok ini saling terhubung satu sama lain secara berurutan. Setelah sebuah blok masuk ke jaringan blockchain, data yang ada di dalam blok tersebut nggak bisa diubah begitu saja. Ini yang bikin sistemnya susah dimanipulasi dan transparan.  
    
-2. ## **Disebar ke Ribuan Komputer (Node)**
+## 2. **Disebar ke Ribuan Komputer (Node)**
 
    Setelah data tersimpan di jaringan blockchain, selanjutnya semua data tersebut akan disimpan dan disebar ke **ribuan komputer (node)** di seluruh dunia yang menggunakan jaringan blockchain. Jadi, semua transaksi yang terjadi di blockchain akan di validasi bersama-sama oleh ribuan komputer tersebut, bukan cuma satu perusahaan besar. Itulah mengapa crypto desentralisasi, artinya tidak ada satu pihak yang mengontrol semua transaksi, tapi yang mengontrol adalah ribuan komputer itu tadi.  
    
-3. ## **Diamankan Pakai Sistem Kriptografi**
+## 3. **Diamankan Pakai Sistem Kriptografi**
 
    Sesuai namanya, crypto itu berasal dari kata **cryptography** yang artinya teknik enkripsi. Jadi setiap transaksi yang dilakukan itu diamankan menggunakan sistem kriptografi, dengan kode rahasia yang rumit.  Hanya pemiliknya yang bisa membuka dan mengakses datanya. Nah inilah yang bikin semua transaksi crypto jadi aman dan mustahil untuk dipalsukan. Jadi walaupun transparan dan terbuka, menggunakan kriptografi akan tetap aman.  
    
-4. ## **Verifikasi Lewat Mining atau Staking**
+## 4. **Verifikasi Lewat Mining atau Staking**
 
    Sebelum transaksi dianggap sah dan masuk ke jaringan blockchain, harus melewati proses verifikasi dulu. Verifikasinya adalah dengan menggunakan peran **mining/PoW (Proof of Work)** dan **staking/PoS (Proof of Stake)**. Di Bitcoin menggunakan sistem PoW, jadi komputer-komputer yang ada di jaringan melakukan pemecahan teka-teki matematika rumit untuk memverifikasi transaksi, proses ini disebut mining atau PoW. Sedangkan di crypto lainnya seperti Ethereum menggunakan sistem PoS, jadi para pengguna mengunci koinnya untuk membantu memverifikasi transaksi, sistem staking ini lebih ringan dan mudah dibandingkan mining. Biasanya yang melakukan mining atau staking akan mendapatkan reward dalam bentuk crypto, karena sudah ikut membantu verifikasi transaksi.  
    
-5. ## **Disimpan di Wallet Digital**
+## 5. **Disimpan di Wallet Digital**
 
    Jika transaksi berhasil dilakukan, crypto kamu akan masuk ke **wallet** alias dompet digital. Wallet ini adalah sebagai tempat penyimpanan aset crypto. Akses ke wallet pun dijaga oleh yang namanya **private key**, ini nggak boleh kamu bocorkan ke siapa pun, ibarat private key adalah kata sandi rekening mu atau password brankas mu
 
