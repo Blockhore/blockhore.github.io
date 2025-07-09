@@ -6,7 +6,7 @@ subtitle:
 description: Benarkah Bitcoin termasuk zero sum game? Temukan jawabannya dan pahami konsep di baliknya dalam ulasan singkat ini!
 image: https://res.cloudinary.com/deq13ln4r/image/upload/v1752023542/1_m2tl3e.png
 optimized_image: https://res.cloudinary.com/deq13ln4r/image/upload/c_scale,w_380/v1752023542/1_m2tl3e.png
-category: forum opini
+category: forum-opini
 tags:
   - Bitcoin
   - Cryptocurrency
