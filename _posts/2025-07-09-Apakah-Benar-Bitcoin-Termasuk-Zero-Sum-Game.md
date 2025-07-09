@@ -23,7 +23,7 @@ Halo semuanya, lagi rame banget nih perihal Zero Sum Game yang dibahas sama sala
 
 Sebelum membahas Bitcoin Zero Sum Game alangkah baiknya kita bahas Zero Sum Game terlebih dahulu. Jadi dalam simple nya, Zero Sum Game ialah permainan atau skenario yang di mana seseorang mengalami keuntungan 100 % dan seseorang yang lain mengalami kerugian (-100%). Ada juga yang namanya Non Zero Sum Game, simple nya dua orang atau lebih akan mengalami keuntungan 100% secara bersamaan, di sisi lain akan mengalami kerugian (-100%) secara bersamaan. Tapi yang kita akan bahas di sini mengenai Zero Sum Game itu sendiri terhadap Bitcoin.
 
-![image3]https://res.cloudinary.com/deq13ln4r/image/upload/v1752023915/Screenshot_2025-07-09_081800_da3yk9.png  
+![image3](https://res.cloudinary.com/deq13ln4r/image/upload/v1752023915/Screenshot_2025-07-09_081800_da3yk9.png)  
 Sumber: Shai Davidai & Martino Ongis., (2019) The politics of zero-sum thinking: The relationship between political ideology and the belief that life is a zero-sum game
 
 # Jadi Bitcoin Masuk Zero Sum atau Bukan?
