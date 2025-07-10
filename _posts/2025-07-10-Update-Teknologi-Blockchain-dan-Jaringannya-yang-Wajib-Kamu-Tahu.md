@@ -1,5 +1,5 @@
 ---
-date: 2025-07-08
+date: 2025-07-10
 layout: post
 title: Uptade Teknologi Blockchain dan Jaringannya yang Wajib Kamu Tahu
 subtitle: 
