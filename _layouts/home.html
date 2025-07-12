@@ -2,6 +2,16 @@
 layout: main
 ---
 
+<!-- Custom Hero Section -->
+<section class="custom-hero">
+  <div class="hero-overlay">
+    <div class="hero-text">
+      <h1>Orbiting Education<br>Attracting Innovation</h1>
+      <a href="/join" class="hero-btn">JOIN NOW</a>
+    </div>
+  </div>
+</section>
+
 {% if site.paginate %}
     {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
 {% else %}
