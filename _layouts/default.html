@@ -6,6 +6,20 @@ layout: compress
 <html lang="{{ site.language }}" class="no-js">
     {% include head.html %}
     <body class="has-push-menu">
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                const navbar = document.getElemenById("navbar");
+
+                window.addEventListener("scroll", function () {
+                    if (window.scrollY > 50) {
+                        navbar.classList.add("show-on-scroll");
+                    } else {
+                        navbar.classList.remove("show-on-scroll");
+                    }
+                });
+            });
+        </script>
+        
         {% include svg-icons.html %}
         {% include header.html %}
             <section class="content">
