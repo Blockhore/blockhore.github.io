@@ -15,7 +15,7 @@ body {
   &.hide-on-load {
     transform: translateY(-100%);
     opacity: 0;
-    transition: transform 0.4s ease, opacity 0.4 ease;
+    transition: transform 0.4s ease, opacity 0.4s ease;
   }
 
   &.show-on-scroll {
